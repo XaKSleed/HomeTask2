@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Consumer.dir/cons.c.o -o Consumer  -lrt 
